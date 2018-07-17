@@ -13,6 +13,7 @@
 --* MM/DD/YYYY  RefNum  Ename     Description Of Change-Newest to Oldest
 --* ==========  ======  ========  ==============================================
 --* XXXXXXXXXXXXXXXXXXXXXXXXXXXX  Test GIT
+--* XXXXXXXXXXXXXXXXXXXXXXXXXXXX  Test GIT again
 --* 01/22/2016  1286777 SCHILL    Identify chart code from csuf_accounts table
 --* 06/19/2015  812231  SCHILL    Use csu_utility.character_to_date function
 --*                               instead of to_date
