@@ -12,7 +12,7 @@
 --*-----------------START_OF_MODIFICATIONS_LOG----------------------------------
 --* MM/DD/YYYY  RefNum  Ename     Description Of Change-Newest to Oldest
 --* ==========  ======  ========  ==============================================
---* XXXXXXXXXXXXXXXXXXXXXXXXXXXX test GIT
+--* XXXXXXXXXXXXXXXXXXXXXXXXX test GIT
 --* 06/26/2012  T08576  JMWILKIN  Use new header/modlog format; mods for stds
 --*-----------------END_OF_MODIFICATIONS_LOG------------------------------------
 set serveroutput on
